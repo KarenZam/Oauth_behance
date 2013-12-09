@@ -1,4 +1,4 @@
-Oauth_behance
+oauth_example
 =============
 
-Behance Oauth example
+example of Oauth for github
